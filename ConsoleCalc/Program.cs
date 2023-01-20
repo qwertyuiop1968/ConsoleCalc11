@@ -18,6 +18,8 @@ namespace ConsoleCalc
             b = Convert.ToInt32(Console.ReadLine());
             resAdd = a + b;
             Console.WriteLine("Result addition: "+ resAdd);
+            double resSub = a - b;
+            Console.WriteLine("Result subtraction = " + resSub);
             Console.ReadKey();
         }
     }
