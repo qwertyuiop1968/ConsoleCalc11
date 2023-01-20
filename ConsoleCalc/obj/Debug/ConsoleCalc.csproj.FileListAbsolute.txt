@@ -1,0 +1,7 @@
+C:\Users\stud\Desktop\Course3\11\ConsoleCalc\bin\Debug\ConsoleCalc.exe.config
+C:\Users\stud\Desktop\Course3\11\ConsoleCalc\bin\Debug\ConsoleCalc.exe
+C:\Users\stud\Desktop\Course3\11\ConsoleCalc\bin\Debug\ConsoleCalc.pdb
+C:\Users\stud\Desktop\Course3\11\ConsoleCalc\obj\Debug\ConsoleCalc.csprojAssemblyReference.cache
+C:\Users\stud\Desktop\Course3\11\ConsoleCalc\obj\Debug\ConsoleCalc.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\Course3\11\ConsoleCalc\obj\Debug\ConsoleCalc.exe
+C:\Users\stud\Desktop\Course3\11\ConsoleCalc\obj\Debug\ConsoleCalc.pdb
