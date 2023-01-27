@@ -26,6 +26,8 @@ namespace ConsoleCalc
             Console.WriteLine("Result division = " + resDiv);
             double resMode = a % b;
             Console.WriteLine("Result mode = " + resMode);
+            double resSin = Math.Sin(a);
+            Console.WriteLine("Result sin = " + resSin);
             Console.ReadKey();
         }
     }
