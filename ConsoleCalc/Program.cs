@@ -28,6 +28,8 @@ namespace ConsoleCalc
             Console.WriteLine("Result mode = " + resMode);
             double resSin = Math.Sin(a);
             Console.WriteLine("Result sin = " + resSin);
+            double resCos = Math.Cos(a);
+            Console.WriteLine("Result cos = " + resCos);
             Console.ReadKey();
         }
     }
