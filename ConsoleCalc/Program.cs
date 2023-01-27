@@ -26,6 +26,8 @@ namespace ConsoleCalc
             Console.WriteLine("Result division = " + resDiv);
             double resMode = a % b;
             Console.WriteLine("Result mode = " + resMode);
+            a++;
+            Console.WriteLine("Result inc = " + a);
             Console.ReadKey();
         }
     }
